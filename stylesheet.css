@@ -1,0 +1,98 @@
+h1{
+  text-align: left;
+  width: 100%;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  font-family: "Helvetica";
+  font-size: 3.5em;
+  color: #EE0B53;
+  border-top: 2px dashed;
+  border-color: #EE0B53;
+}
+h2{
+  text-align: left;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  font-family: "Helvetica";
+  font-size: 1.5em;
+  font-style: italic;
+  color: #EE0B53;
+  border-bottom: 2px dashed;
+  border-color: #EE0B53;
+  padding-bottom: 0.15em;
+}
+h4{
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  font-family: "Helvetica";
+  font-size: 1.5em;
+  color: #EE0B53
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  float: left;
+}
+#navbar{
+  font-family: "Helvetica";
+  font-weight: bold;
+  padding-left: 21.5em;
+  padding-top: 0.35em;
+  width: 100%;
+  border-color: #EE0B53
+
+}
+
+li{
+  float: left;
+}
+
+#ourstory{
+  float: left;
+  padding-left: 3em;
+  padding-right: 3em;
+  text-align: center;
+}
+
+#menu{
+  float: left;
+  padding-left: 3em;
+  padding-right: 3em;
+  text-align: center;
+}
+
+#upcomingevents{
+  float: left;
+  padding-left: 3em;
+  padding-right: 3em;
+  text-align: center;
+}
+#FoodTruckCartoon{
+  padding-top: 6em;
+  padding-left: 24em;
+}
+#storypage{
+  border-bottom: 2px dashed;
+}
+
+p{
+  margin-left: 8em;
+  margin-right: 8em;
+  margin-top: 2.5em;
+  text-align: justify;
+  border: 2px dashed;
+  border-color: #EE0B53;
+  font-family: "Helvetica"
+}
+
+#falafel{
+  padding-left: 26%;
+  padding-top: 2em;
+}
+
+#lookout{
+  border-bottom: 2px dashed;
+  border-color: #EE0B53
+}
